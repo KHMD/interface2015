@@ -838,6 +838,17 @@ footer {
       font-size: 22px;
       display: inline-block;
       text-align: center; }
+      footer .social-share a.youtube-share:hover, footer .social-share a.youtube-share:focus {
+      background-color: #ac2b26; }
+    footer .social-share a.youtube-share {
+      height: 60px;
+      width: 60px;
+      padding: 0 1% 2% 0;
+      background-color: #cd332d;
+      border-radius: 3px;
+      font-size: 22px;
+      display: inline-block;
+      text-align: center; }
     footer .social-share a {
       color: #fff; }
     footer .social-share a:hover {
@@ -847,6 +858,46 @@ footer {
   footer .footer-links {
     margin: 120px 0 120px 0; }
 
+/*.btn-youtube {
+  color: #ffffff;
+  background-color: #cd332d;
+  border-color: #6e0610;
+}
+
+.btn-youtube:hover,
+.btn-youtube:focus,
+.btn-youtube:active,
+.btn-youtube.active,
+.open .dropdown-toggle.btn-youtube {
+  color: #ffffff;
+  background-color: #ac2b26;
+  border-color: #340308;
+}
+
+.btn-youtube:active,
+.btn-youtube.active,
+.open .dropdown-toggle.btn-youtube {
+  background-image: none;
+}
+
+.btn-youtube.disabled,
+.btn-youtube[disabled],
+fieldset[disabled] .btn-youtube,
+.btn-youtube.disabled:hover,
+.btn-youtube[disabled]:hover,
+fieldset[disabled] .btn-youtube:hover,
+.btn-youtube.disabled:focus,
+.btn-youtube[disabled]:focus,
+fieldset[disabled] .btn-youtube:focus,
+.btn-youtube.disabled:active,
+.btn-youtube[disabled]:active,
+fieldset[disabled] .btn-youtube:active,
+.btn-youtube.disabled.active,
+.btn-youtube[disabled].active,
+fieldset[disabled] .btn-youtube.active {
+  background-color: #cd332d;
+  border-color: #6e0610;
+}*/
 /* ==========================================================================
 Icon font (http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)
 ========================================================================== */
