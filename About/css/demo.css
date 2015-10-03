@@ -6,12 +6,8 @@
 .clearfix:after { clear: both; }
 
 body {
-<<<<<<< HEAD
-	background: #f9f7f6;
-=======
 	background-image: url('../img/bg.png');
 	background-position:;
->>>>>>> minor-changes
 	color: #404d5b;
 	font-weight: 500;
 	font-size: 1.05em;
@@ -19,21 +15,13 @@ body {
 }
 
 a {
-<<<<<<< HEAD
-	color: #2fa0ec;
-=======
 	color:#FF5274;
->>>>>>> minor-changes
 	text-decoration: none;
 	outline: none;
 }
 
 a:hover, a:focus {
-<<<<<<< HEAD
-	color: #404d5b;
-=======
 	color: #AF3F55;
->>>>>>> minor-changes
 }
 
 .container {
@@ -43,11 +31,7 @@ a:hover, a:focus {
 
 .content {
 	font-size: 150%;
-<<<<<<< HEAD
-	padding: 0.2em 0;
-=======
 	padding: 1em 1em;
->>>>>>> minor-changes
 }
 
 .content h2 {
@@ -63,11 +47,7 @@ a:hover, a:focus {
 
 .bgcolor-1 { background: #f0efee; 
 	text-align: center;}
-<<<<<<< HEAD
-.bgcolor-2 { background: #c4c4c4; }
-=======
 .bgcolor-2 { background: #1B1B25; }
->>>>>>> minor-changes
 .bgcolor-3 { background: #e8e8e8; 
 	text-align: center;}
 .bgcolor-4 { background: #2f3238; color: #fff; }
@@ -85,19 +65,11 @@ body .nomargin-bottom {
 
 /* Header */
 .header {
-<<<<<<< HEAD
-	background-color: #fff;
-	padding: 3em 190px 4em;
-	letter-spacing: -1px;
-}
-
-=======
 	padding: 4em 190px 4em;
 	letter-spacing: -1px;
 	height: 100vh;
 	color: #9FA8B3;
 }
->>>>>>> minor-changes
 .header h1 {
 	font-weight: 800;
 	font-size: 4em;
@@ -122,9 +94,6 @@ body .nomargin-bottom {
 .header img {
     float:right;
 }
-<<<<<<< HEAD
-
-=======
 @media (min-width:992px) {
 	.header{
 		padding: 6em 190px 4em;
@@ -141,7 +110,6 @@ body .nomargin-bottom {
 		font-size: 2.8em;
 	}
 }
->>>>>>> minor-changes
 #second{
 	padding: 100px;
 }
@@ -150,12 +118,8 @@ body .nomargin-bottom {
 	font-size: 38px;
 	font-weight: 500;
 	text-transform: uppercase;
-<<<<<<< HEAD
-}
-=======
 }
 .footer {
 	text-align: center;
 	color: #90949E;
 }
->>>>>>> minor-changes

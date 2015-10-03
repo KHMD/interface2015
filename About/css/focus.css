@@ -59,22 +59,14 @@
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-<<<<<<< HEAD
-  background: #c4c4c4;
-=======
   background: #1B1B25;
->>>>>>> minor-changes
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 .focus {
   font-size: 3rem;
   text-transform: uppercase;
-<<<<<<< HEAD
-  color: white;
-=======
   color: #FF5274;
->>>>>>> minor-changes
   letter-spacing: .2rem;
   line-height: 1;
   position: relative;
@@ -104,11 +96,7 @@
   height: 100%;
   top: 0;
   left: 0;
-<<<<<<< HEAD
-  background: #b4b4b4;
-=======
   background: #1B1B25;
->>>>>>> minor-changes
   -webkit-animation: mask-move 1s linear infinite alternate;
           animation: mask-move 1s linear infinite alternate;
 }
