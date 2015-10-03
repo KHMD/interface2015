@@ -59,14 +59,14 @@
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #c4c4c4;
+  background: #1B1B25;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 .focus {
   font-size: 3rem;
   text-transform: uppercase;
-  color: white;
+  color: #FF5274;
   letter-spacing: .2rem;
   line-height: 1;
   position: relative;
@@ -96,7 +96,7 @@
   height: 100%;
   top: 0;
   left: 0;
-  background: #b4b4b4;
+  background: #1B1B25;
   -webkit-animation: mask-move 1s linear infinite alternate;
           animation: mask-move 1s linear infinite alternate;
 }
