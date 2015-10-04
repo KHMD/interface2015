@@ -177,6 +177,17 @@ body .nomargin-bottom {
   transition: all 10ms;
 }
 
+.button a:hover:before {
+	content: attr(data-info);
+	font-weight: bold;
+	font-size: 0.85em;
+	position: absolute;
+	top: 120%;
+	right: 0;
+	width: 600%;
+	text-align: right;
+	pointer-events: none;
+}
 
 
 
