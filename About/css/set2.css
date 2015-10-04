@@ -3,7 +3,7 @@
 	z-index: 1;
 	display: inline-block;
 	margin: 1em;
-	max-width: 265px;
+	max-width: 385px;
 	width: calc(100% - 2em);
 	vertical-align: top;
 }
