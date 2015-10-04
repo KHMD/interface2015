@@ -173,7 +173,7 @@ a:hover {
 }
 
 .bp-header nav a:hover {
-	background: #5C5EDC;
+	background: #E0526D;
 }
 
 .bp-icon:after {
@@ -183,7 +183,7 @@ a:hover {
 	font-variant: normal;
 	text-align: center;
 	text-transform: none;
-	color: #5C5EDC;
+	color: #E0526D;
 	speak: none;
 	-webkit-font-smoothing: antialiased;
 }

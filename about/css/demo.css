@@ -33,6 +33,11 @@ a:hover, a:focus {
 	font-size: 150%;
 	padding: 1em 1em;
 }
+.content-box {
+	font-size: 120%;
+	padding: 3em 1.5em;
+}
+
 
 .content h2 {
 	margin: 0 0 0.2em;
