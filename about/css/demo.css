@@ -35,7 +35,7 @@ a:hover, a:focus {
 }
 .content-box {
 	font-size: 120%;
-	padding: 3em 1.5em;
+	padding: 2em 3em;
 }
 
 
@@ -50,6 +50,13 @@ a:hover, a:focus {
 	font-size: 1em;
 }
 
+.content-box p {
+  text-align: left;
+  font-size: 1.2em;
+}
+.content-box > p >span, .content-box > h2 > span {
+  color: #AF3F55;
+}
 .bgcolor-1 { background: #f0efee; 
 	text-align: center;}
 .bgcolor-2 { background: #1B1B25; }
