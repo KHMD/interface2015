@@ -1,11 +1,11 @@
 .input {
-	position: relative;
-	z-index: 1;
-	display: inline-block;
-	margin: 1em;
-	max-width: 385px;
-	width: calc(100% - 2em);
-	vertical-align: top;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    margin: 1em;
+    max-width: 255px;
+    width: calc(100% - 2em);
+    vertical-align: top;
 }
 
 .input__field {
