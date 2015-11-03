@@ -1,1 +1,1 @@
-KHMD Official Website
+Official Website for KHMD's Interface event.
