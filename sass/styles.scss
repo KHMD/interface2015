@@ -298,6 +298,9 @@ header {
   }
   .logo {
     display: inline-block;
+    img {	
+        max-width: 200px;
+    }
   }
   ul.primary-nav {
     margin: 0 0 0 75px;

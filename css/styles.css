@@ -132,6 +132,9 @@ a {
   .logo{
   font-size: 18px;
 }
+.logo > img {
+    max-width: 200px;
+}
 a:hover, a:focus {
   color: #D7405D;
   text-decoration: none; }
