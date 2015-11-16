@@ -38,7 +38,7 @@
   <g
      id="layer3">
     <g
-       transform="matrix(0.87900669,0,0,1,1.6991091,-399.86218)"
+       transform="matrix(0.87900669,0,0,1,1.6991091,-429.86218)"
        id="g3222">
       <rect
          width="395.42368"
@@ -60,6 +60,7 @@
          style="color:#000000;fill:#1a1f29;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
+       transform="translate(0,-30)"
        id="g3152">
       <rect
          width="916.07599"
@@ -81,7 +82,7 @@
          style="color:#000000;fill:#1a1f29;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       transform="matrix(0.35470236,0,0,1,369.06192,-399.86218)"
+       transform="matrix(0.35470236,0,0,1,369.06192,-429.86218)"
        id="g4377">
       <rect
          width="395.42368"
@@ -103,13 +104,13 @@
          style="color:#000000;fill:#1a1f29;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       transform="matrix(1,0,0,1.2486181,0,-623.12186)"
+       transform="matrix(1,0,0,1.6393036,0,-1003.9585)"
        id="g3212">
       <rect
          width="837.36542"
          height="93.118706"
          rx="10.035656"
-         ry="6.3732967"
+         ry="4.8543863"
          x="14.043"
          y="901.10303"
          id="rect4629"
@@ -118,7 +119,7 @@
          width="835"
          height="92.855659"
          rx="10.035656"
-         ry="6.3732967"
+         ry="4.8543863"
          x="14.508"
          y="898.00262"
          id="rect4605"
@@ -131,30 +132,30 @@
      style="display:inline;filter:url(#filter4343)">
     <text
        x="68.713158"
-       y="866.3335"
+       y="836.3335"
        id="text4721"
        xml:space="preserve"
        style="font-size:11.63015938px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
          x="68.713158"
-         y="866.3335"
+         y="836.3335"
          id="tspan4723"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">Venues</tspan></text>
     <path
-       d="m 49.056102,869.55741 38.831419,0"
+       d="m 49.056102,839.55741 38.831419,0"
        id="path4725"
        style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        x="91.457451"
-       y="920.3335"
+       y="890.3335"
        id="text4607"
        xml:space="preserve"
        style="font-size:11.63015938px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
          x="91.457451"
-         y="920.3335"
+         y="890.3335"
          id="tspan4609"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">Full-day events</tspan></text>
     <path
-       d="m 48.212795,925.55741 87.057185,0"
+       d="m 48.212795,895.55741 87.057185,0"
        id="path4611"
        style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
@@ -168,6 +169,7 @@
          y="630.19855"
          id="tspan4667" /></text>
     <g
+       transform="translate(0,-30)"
        id="g4291">
       <text
          x="43.709309"
@@ -272,6 +274,7 @@
          style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     </g>
     <g
+       transform="translate(0,-30)"
        id="g4264">
       <g
          transform="matrix(0.97114264,0,0,0.97114264,19.874483,-17.686293)"
@@ -390,6 +393,7 @@
   <g
      id="layer4">
     <g
+       transform="translate(0,-30)"
        id="g4539">
       <rect
          width="83.216873"
@@ -414,10 +418,10 @@
            x="259.35583"
            y="480.74628"
            id="tspan4681"
-           style="font-size:12.9907341px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">Dell Lab</tspan></text>
+           style="font-size:12.9907341px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">AV Room</tspan></text>
     </g>
     <g
-       transform="translate(7.508,-327.54864)"
+       transform="translate(7.508,-357.54864)"
        id="g4693">
       <rect
          width="106.63351"
@@ -443,81 +447,87 @@
            id="tspan4701"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans">Auditorium</tspan></text>
     </g>
-    <text
-       x="71.208076"
-       y="929.14111"
-       transform="translate(0,-399.86218)"
-       id="text4172"
-       xml:space="preserve"
-       style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff5274;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+    <g
+       transform="translate(0,-26.000002)"
+       id="g3172">
+      <text
          x="71.208076"
          y="929.14111"
-         id="tspan4174"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff5274;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
-         x="71.208076"
-         y="946.5611"
-         id="tspan5502"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff5274;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.30 AM - 12 PM : </tspan></text>
-    <path
-       d="m 107.047,547.12561 a 5.0178305,5.0178305 0 1 1 -10.035661,0 5.0178305,5.0178305 0 1 1 10.035661,0 z"
-       transform="translate(-44.492,-5.68646)"
-       id="path4631"
-       style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       d="m 107.047,547.12561 a 5.0178305,5.0178305 0 1 1 -10.035661,0 5.0178305,5.0178305 0 1 1 10.035661,0 z"
-       transform="translate(-44.492,20.31354)"
-       id="path4633"
-       style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <text
-       x="70.090401"
-       y="954.14111"
-       transform="translate(0,-399.86218)"
-       id="text4635"
-       xml:space="preserve"
-       style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff4174;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
-         x="70.090401"
-         y="954.14111"
-         id="tspan4637"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
-         x="70.090401"
-         y="971.5611"
-         id="tspan4639"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.30 AM - 12 PM : </tspan></text>
-    <text
-       x="190.09039"
-       y="929.03906"
-       transform="translate(0,-399.86218)"
-       id="text4645"
-       xml:space="preserve"
-       style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
-         x="190.09039"
-         y="929.03906"
-         id="tspan4647"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
-         x="190.09039"
-         y="946.45905"
-         id="tspan4649"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         transform="translate(0,-399.86218)"
+         id="text4172"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff5274;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="71.208076"
+           y="929.14111"
+           id="tspan4174"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff5274;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="71.208076"
+           y="946.5611"
+           id="tspan5502"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff5274;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.30 AM - 12.00 PM : </tspan></text>
+      <path
+         d="m 107.047,547.12561 a 5.017828,5.017828 0 1 1 -10.035661,0 5.017828,5.017828 0 1 1 10.035661,0 z"
+         transform="translate(-44.492,-5.68646)"
+         id="path4631"
+         style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         x="210.09039"
+         y="529.17688"
+         id="text4645"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="210.09039"
+           y="529.17688"
+           id="tspan4647"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="210.09039"
+           y="546.59686"
+           id="tspan4649"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
    id="tspan4651"
    style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">Sandbox (Project display) - </tspan>Yoga Room</tspan></text>
-    <text
-       x="189.20807"
-       y="554.38043"
-       id="text4653"
-       xml:space="preserve"
-       style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
-         x="189.20807"
-         y="554.38043"
-         id="tspan4655"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
-         x="189.20807"
-         y="571.80042"
-         id="tspan4657"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
-   id="tspan4659"
-   style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">KHMD Room - </tspan>Maths Lab, High School Block</tspan></text>
+    </g>
     <g
-       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-431.14447)"
+       transform="translate(0,-9.349661)"
+       id="g3192">
+      <path
+         d="m 107.047,547.12561 a 5.017828,5.017828 0 1 1 -10.035661,0 5.017828,5.017828 0 1 1 10.035661,0 z"
+         transform="translate(-44.492,42.31354)"
+         id="path4633"
+         style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         x="70.090401"
+         y="576.27893"
+         id="text4635"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff4174;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="70.090401"
+           y="576.27893"
+           id="tspan4637"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="70.090401"
+           y="593.69891"
+           id="tspan4639"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.30 AM - 12.00 PM : </tspan></text>
+      <text
+         x="209.20807"
+         y="576.38043"
+         id="text4653"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="209.20807"
+           y="576.38043"
+           id="tspan4655"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="209.20807"
+           y="593.80042"
+           id="tspan4657"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+   id="tspan4659"
+   style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">KHMD Mini-makerspace - </tspan>Maths Lab, High School Block</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-461.14447)"
        id="g4351">
       <rect
          width="206.16869"
@@ -549,7 +559,7 @@
    style="fill:#ff4174;fill-opacity:1">!</tspan>)</tspan></tspan></text>
     </g>
     <g
-       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-411.72162)"
+       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-441.72162)"
        id="g4275">
       <rect
          width="414.56766"
@@ -572,7 +582,7 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">iQuiz</tspan></text>
     </g>
     <g
-       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-421.43304)"
+       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-451.43304)"
        id="g4292">
       <rect
          width="206.16869"
@@ -604,7 +614,7 @@
    style="fill:#ff4174;fill-opacity:1">!</tspan>)</tspan></tspan></text>
     </g>
     <g
-       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-431.14447)"
+       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-461.14447)"
        id="g4329">
       <rect
          width="206.16869"
@@ -636,7 +646,7 @@
    style="fill:#ff4174;fill-opacity:1">!</tspan>)</tspan></tspan></text>
     </g>
     <g
-       transform="matrix(0.97114264,0,0,0.97114264,121.76987,-611.77749)"
+       transform="matrix(0.97114264,0,0,0.97114264,121.76987,-641.77749)"
        id="g3194">
       <rect
          width="205.875"
@@ -663,6 +673,7 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans">Jarvis Dance Video</tspan></text>
     </g>
     <g
+       transform="translate(0,-30)"
        id="g4363">
       <g
          transform="matrix(0.97114264,0,0,0.97114264,19.874483,-417.54847)"
@@ -703,10 +714,11 @@
        width="13.93399"
        height="23.38611"
        x="868.59998"
-       y="144.56789"
+       y="114.56789"
        id="rect4361"
        style="fill:#ff5274;fill-opacity:1;stroke:none" />
     <g
+       transform="translate(0,-30)"
        id="g4476">
       <rect
          width="199.93388"
@@ -738,6 +750,7 @@
    style="fill:#ff4174;fill-opacity:1">!</tspan>)</tspan></tspan></text>
     </g>
     <g
+       transform="translate(0,-30)"
        id="g4491">
       <rect
          width="199.93388"
@@ -770,60 +783,64 @@
     </g>
     <text
        x="432.00143"
-       y="463.4472"
+       y="432.51691"
        transform="scale(1.0310122,0.96992063)"
        id="text4533"
        xml:space="preserve"
        style="font-size:15.9653368px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
          x="432.00143"
-         y="463.4472"
+         y="432.51691"
          id="tspan4535"
          style="font-size:12.5909996px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
          x="432.00143"
-         y="480.74628"
+         y="449.81598"
          id="tspan4537"
          style="font-size:12.9907341px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
    id="tspan4549"
    style="font-weight:bold">Flash Talk : </tspan>(<tspan
    id="tspan4553"
    style="fill:#ff5274;fill-opacity:1">!</tspan>)</tspan></text>
-    <path
-       d="m 107.047,547.12561 a 5.0178305,5.0178305 0 1 1 -10.035661,0 5.0178305,5.0178305 0 1 1 10.035661,0 z"
-       transform="translate(-44.492,46.31354)"
-       id="path3145"
-       style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <text
-       x="70.090401"
-       y="580.27893"
-       id="text3147"
-       xml:space="preserve"
-       style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff4174;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+    <g
+       transform="translate(0,-4.750103)"
+       id="g3182">
+      <path
+         d="m 107.047,547.12561 a 5.017828,5.017828 0 1 1 -10.035661,0 5.017828,5.017828 0 1 1 10.035661,0 z"
+         transform="translate(-44.492,16.31354)"
+         id="path3145"
+         style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
          x="70.090401"
-         y="580.27893"
-         id="tspan3149"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
-         x="70.090401"
-         y="597.69891"
-         id="tspan3151"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.30 AM - 12.30 PM : </tspan></text>
-    <text
-       x="209.20807"
-       y="580.38043"
-       id="text3153"
-       xml:space="preserve"
-       style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+         y="550.27893"
+         id="text3147"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff4174;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="70.090401"
+           y="550.27893"
+           id="tspan3149"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="70.090401"
+           y="567.69891"
+           id="tspan3151"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.30 AM - 12.30 PM : </tspan></text>
+      <text
          x="209.20807"
-         y="580.38043"
-         id="tspan3155"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
-         x="209.20807"
-         y="597.80042"
-         id="tspan3157"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         y="550.38043"
+         id="text3153"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="209.20807"
+           y="550.38043"
+           id="tspan3155"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="209.20807"
+           y="567.80042"
+           id="tspan3157"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
    id="tspan3159"
    style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">Hour of Code - </tspan>Senior Secondary Computer Lab</tspan></text>
+    </g>
     <g
-       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-217.4931)"
+       transform="matrix(0.97114264,0,0,0.97114264,19.874483,-247.4931)"
        id="g3150">
       <rect
          width="414.56766"
@@ -844,6 +861,85 @@
            y="588.8501"
            id="tspan3156"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">Artificial Intelligence and Machine Learning</tspan></text>
+    </g>
+    <g
+       transform="translate(0,-14)"
+       id="g3202">
+      <path
+         d="m 107.047,547.12561 a 5.017828,5.017828 0 1 1 -10.035661,0 5.017828,5.017828 0 1 1 10.035661,0 z"
+         transform="translate(-44.492,68.31354)"
+         id="path3156"
+         style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         x="70.090401"
+         y="602.27893"
+         id="text3158"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff4174;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="70.090401"
+           y="602.27893"
+           id="tspan3160"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="70.090401"
+           y="619.69891"
+           id="tspan3162"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff4174;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.00 AM - 12.00PM : </tspan></text>
+      <text
+         x="209.20807"
+         y="602.38043"
+         id="text3164"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="209.20807"
+           y="602.38043"
+           id="tspan3166"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="209.20807"
+           y="619.80042"
+           id="tspan3168"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+   id="tspan3170"
+   style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">Student ICT Curriculum Display - </tspan>High School Computer Lab</tspan></text>
+    </g>
+    <g
+       transform="translate(0,-4.599558)"
+       id="g3213">
+      <text
+         x="71.208076"
+         y="929.14111"
+         transform="translate(0,-399.86218)"
+         id="text3215"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ff5274;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="71.208076"
+           y="929.14111"
+           id="tspan3217"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff5274;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="71.208076"
+           y="946.5611"
+           id="tspan3219"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff5274;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">9.30 AM - 12.00 PM : </tspan></text>
+      <path
+         d="m 107.047,547.12561 a 5.017828,5.017828 0 1 1 -10.035661,0 5.017828,5.017828 0 1 1 10.035661,0 z"
+         transform="translate(-44.492,-5.68646)"
+         id="path3221"
+         style="color:#000000;fill:none;stroke:#ff5274;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         x="210.09039"
+         y="529.17688"
+         id="text3223"
+         xml:space="preserve"
+         style="font-size:16.48394775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+           x="210.09039"
+           y="529.17688"
+           id="tspan3225"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /><tspan
+           x="210.09039"
+           y="546.59686"
+           id="tspan3227"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+   id="tspan3229"
+   style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">Design Thinking Workshop - </tspan>Senior Secondary AV Room</tspan></text>
     </g>
   </g>
 </svg>
